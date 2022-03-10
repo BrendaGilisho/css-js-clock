@@ -1,1 +1,1 @@
-# css-js-clock
+# JavaScript practise 
